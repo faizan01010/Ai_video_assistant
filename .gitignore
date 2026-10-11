@@ -1,1 +1,9 @@
+cookies.txt
 .env
+.venv/
+venv/
+downloads/
+downloades/
+vector_db/
+__pycache__/
+*.pyc
