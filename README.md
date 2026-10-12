@@ -8,6 +8,12 @@ Understanding lengthy videos, lectures, and tutorials can be time-consuming. Fin
 
 The AI Video Assistant with RAG addresses this problem by converting video content into text, generating concise summaries, and allowing users to ask questions about the content using AI-powered retrieval.
 
+## **Live Demo**
+
+**Try the application:** [AI Video Assistant with RAG](https://aivideoassistant-fh4kqu9attkoph3p93gmsf.streamlit.app/)
+
+Explore AI-powered video transcription, summarization, and question answering using Retrieval-Augmented Generation (RAG).
+
 Features
 
 Video Audio Extraction
